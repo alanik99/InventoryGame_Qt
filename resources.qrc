@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>basket.webp</file>
+        <file>foot.webp</file>
+        <file>rugby.jpg</file>
+    </qresource>
+</RCC>
